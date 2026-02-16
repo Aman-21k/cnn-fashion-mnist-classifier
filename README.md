@@ -1,11 +1,6 @@
 # 👕 Fashion MNIST Classifier using CNN & Streamlit
 
-An end-to-end Deep Learning project that classifies clothing images into 10 categories using a Convolutional Neural Network (CNN) trained on the Fashion MNIST dataset, with a user-friendly Streamlit web interface for real-time predictions.
-
----
-
-## 🚀 Live Demo
-👉 [Check Live](https://your-streamlit-link-here)
+An end-to-end Deep Learning project that classifies clothing images into 10 categories using a Convolutional Neural Network (CNN) trained on the Fashion MNIST dataset, with a user-friendly Streamlit web interface for real-time prediction
 
 ---
 
