@@ -1,0 +1,70 @@
+# -----------------------------
+# Python cache files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environment
+# -----------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# OS generated files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor folders
+# -----------------------------
+.vscode/
+.idea/
+
+# -----------------------------
+# Streamlit config (optional ignore)
+# -----------------------------
+.streamlit/secrets.toml
+
+# -----------------------------
+# Model files (optional)
+# If model is large, don't upload it
+# -----------------------------
+# model.keras
+# *.h5
+
+# -----------------------------
+# Dataset files
+# -----------------------------
+data/
+datasets/
+*.csv
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Build / dist
+# -----------------------------
+build/
+dist/
+*.egg-info/
